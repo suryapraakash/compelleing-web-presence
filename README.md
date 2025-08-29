@@ -14,15 +14,12 @@ Through **web platform analysis, responsive design testing, and landing page des
 ---
 
 ## 🗂 Files in this Repo
-- `web_platform_analysis.pdf` → Technical audit of hosting & CMS platforms  
-- `responsive_test_results.png` → Mobile/desktop responsive design test screenshot  
-- `landing_page_design.png` → Proposed landing page mockup  
-- `insights.md` → Detailed findings & recommendations  
+-POWER Point [FILE](https://github.com/suryapraakash/compelleing-web-presence/blob/main/PPT/cr5afting%20and%20compelling%20website%20analysis%20and%20audit%20recommendation_animated1.pptx)
 
 ---
 
 ## 💡 Key Findings
-- The website uses **[insert platform, e.g., Shopify/WordPress/Custom CMS]** for hosting and content management.  
+- The website uses **[RUXIT,HOTJAR FOR ANALYTICS AMAZON,GOOGLE CLOUD etc for cloud hosting,Anchor,dynatrace for cms ]**   
 - **Responsive design issues** identified on mobile (slow load time, layout shifts).  
 - Current **landing page lacks strong CTAs**; redesigned version improves conversion flow.  
 
@@ -31,24 +28,24 @@ Through **web platform analysis, responsive design testing, and landing page des
 ## 🚀 Recommendations
 - Optimize for **mobile-first design** to improve user experience.  
 - Implement **clear CTAs (Call to Actions)** on landing pages.  
-- Improve **page speed** by compressing images and reducing server response time.  
+- Improve **page speed** by compressing images and reducing server response time and by placing lazy loading in code.  
 - Leverage **data-driven A/B testing** for landing page optimization.  
 
 ---
 
 ## 🔧 Tools Used
 - **Google Mobile-Friendly Test / PageSpeed Insights** – Responsive design audit  
-- **Canva / Figma** – Landing page design  
-- **Excel / Docs** – Findings documentation  
+- **Canva** – Landing page design  
+- **pesentation.ai** – Findings documentation  
 
 ---
 
 ## 📊 Visuals
 ### Responsive Design Test
-![Responsive Test](responsive_test_results.png)
+![Responsive Test](https://github.com/suryapraakash/compelleing-web-presence/blob/main/responsivedesigntesting/design%20test.png)
 
 ### Landing Page Prototype
-![Landing Page Design](landing_page_design.png)
+![Landing Page Design](https://github.com/suryapraakash/compelleing-web-presence/blob/main/landingpage/LAND.png)
 
 ---
 
