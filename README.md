@@ -34,7 +34,7 @@ Through **web platform analysis, responsive design testing, and landing page des
 ---
 
 ## 🔧 Tools Used
-- **Google Mobile-Friendly Test / PageSpeed Insights** – Responsive design audit  
+- **PageSpeed Insights/window resizer** – Responsive design audit  
 - **Canva** – Landing page design  
 - **pesentation.ai** – Findings documentation  
 
